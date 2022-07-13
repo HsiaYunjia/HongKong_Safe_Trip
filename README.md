@@ -14,6 +14,13 @@ github地址：[https://github.com/HsiaYunjia/HongKong_Safe_Trip](https://github
 
 [2019冠狀病毒病專題網站 - 同心抗疫 - 入境注意](https://www.coronavirus.gov.hk/chi/inbound-travel.html#quarantinemeasures2)
 
+# 简单概括
+
+1. 以入境香港政策为参考，飞机前往香港。
+2. 在香港能呆7天，同时需要隔离7天，但抵港当日视作入境第0天，隔离第1天，因此有了1天的时间差用于回国。
+3. 在回大陆当天，需要做政府要求的机场快速核酸，如果飞除了杭州成都以外的城市，还需要做48小时的PCR。通常会选择能够凌晨来隔离酒店上门检测的机构，或者是可以在凌晨walkin的机构。
+4. 回国后7+3政策执行隔离，具体执行情况需要咨询隔离酒店和自己家社区。
+
 # 时间线
 
 ![Untitled](%E8%8B%B1%E5%9B%BD-%E9%A6%99%E6%B8%AF%E4%B8%AD%E8%BD%AC-%E5%9B%9E%E5%9B%BD%20b65b2b48f6bd4008977fae7947d1dda3/Untitled.png)
